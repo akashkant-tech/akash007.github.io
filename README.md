@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/Bootstrap-Blog-Template-DevBlog-Pormo.jpg" alt="Bootstrap 4 Blog Template for Developers" /></a>
 
 ## Theme Details & Demo
@@ -72,3 +73,6 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 - [Bootstrap](https://getbootstrap.com/)
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 - [Highlight.js](https://highlightjs.org/)
+=======
+# akash007.github.io
+>>>>>>> b8d3d5938a839765a85a36d01f8d962a4e53ab33
